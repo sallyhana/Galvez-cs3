@@ -1,0 +1,29 @@
+<DOCTYPE html> 
+
+<html> 
+
+<head> 
+	<title> Sal's Music Suggestions </title>
+	<meta name ="author" content="Salliana Fredzelle Galvez" />
+	<meta name ="description" content="yay" />
+</head>
+
+<body> 
+<div>
+<h3 style="color: blue">Sal's Spotify</h3>
+<p style="color: white:">
+
+	this website is made to compile <span style= "color: blue;"> Sal's music suggestion </span>
+	</p>
+</div>
+
+<div style= "color: orange; font-style: bold;">
+<h5>Song suggestions</h5>
+<ul>
+	<li>< a href ="https://youtu.be/6kR00shF47I?si=n8ufsyz-xFXCmZk7"> Yk by Cean Jr</a></li>
+	<li>< a href ="https://youtu.be/iygXgP2nOF4?si=aN8ieIzfMoca80h"> Take A Chance With Me by NIKI</a></li>
+	<li>< a href ="https://youtu.be/FNEoPctNIUE?si=OpkBHEMoGj3rOjaC"> Dress by Taylor Swift</a></li>
+
+</body>
+
+</html>
